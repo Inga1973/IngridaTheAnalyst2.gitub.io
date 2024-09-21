@@ -9,4 +9,4 @@ A collection of my work.
 
 4.[Rinkimai](https://github.com/Inga1973/project2/blob/master/Rinkimai.py)
 
-5.[Hotel analize]((https://github.com/Inga1973/project2/blob/master/hotel%20analize.ipynb)
+5.[Hotel analize](https://github.com/Inga1973/project2/blob/master/hotel%20analize.ipynb)
