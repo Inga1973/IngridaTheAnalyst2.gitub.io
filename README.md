@@ -1,7 +1,7 @@
 # Projects
 A collection of my work.
 
-1.[Pastatų valdymo įmonės analizė](https://github.com/Inga1973/project2/blob/master/Imones%20veiklos%20ataskaita.pbix)
+1.[Pastatų valdymo įmonės analizė]
 
 2.[Įmonės veiklos ataskaita](https://github.com/Inga1973/project2/blob/master/Imones%20veiklos%20ataskaita.pbix)
 
@@ -16,6 +16,7 @@ A collection of my work.
 7.[Rinkimai](https://github.com/Inga1973/project2/blob/master/Rinkimai.py)
 
 8.[Viešbučių analizė](https://github.com/Inga1973/project/blob/master/hotel%20analize.ipynb)
+
 
 
 
